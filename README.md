@@ -29,16 +29,27 @@ AWS Elastic Beanstalk for Continuous Deployment (CD)
 
 
 
+
 🧱 Project Structure
+
 ├── Dockerfile
+
 ├── Dockerfile.dev
+
 ├── docker-compose-dev.yml
+
 ├── src/
+
 ├── public/
+
 ├── package.json
+
 ├── .github/
+
 │   └── workflows/
+
 │       └── deploy.yml
+
 └── README.md
 
 
@@ -52,7 +63,6 @@ The app will be available at:
 👉 http://localhost:4000
 
 To stop the containers:
-
 docker compose down
 
 
@@ -117,11 +127,6 @@ Scalable AWS hosting environment
 Test automation integration
 
 
-
-
-Author
-Nourhan Khalid
-www.linkedin.com/in/nourhan-khalid-22n
 
 
 
